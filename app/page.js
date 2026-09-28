@@ -19,7 +19,7 @@ export default function Home() {
           <p className="eyebrow">A calmer individual workspace</p>
           <h1>Make progress <em>visible.</em></h1>
           <p className="heroText">TaskFlow is available today for individuals who want one calm place to turn a project into clear tasks, visible status, deadlines, and progress they can understand.</p>
-          <div className="heroActions"><a className="primaryButton" href="http://localhost:5173/signup">Start a workspace <span aria-hidden="true">→</span></a><a className="textLink" href="#team">See what is next <span aria-hidden="true">↓</span></a></div>
+          <div className="heroActions"><a className="primaryButton" href="https://jhony-saba.github.io/TaskFlow-FrontEnd/#/signup">Start a workspace <span aria-hidden="true">→</span></a><a className="textLink" href="#team">See what is next <span aria-hidden="true">↓</span></a></div>
           <p className="heroNote"><span className="statusDot" /> Individual project management today. Team workspaces are next.</p>
         </div>
         <div className="heroVisual" aria-label="TaskFlow project overview preview">
